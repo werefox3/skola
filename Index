@@ -1,0 +1,83 @@
+<!DOCTYPEhtml>
+<meta charset="UTF-8">
+<html style="	width:auto;
+				height:auto;
+				background-image:url(background.jpg);
+				background-position:center top;
+				background-size:100%;">
+<head>
+<title>Index</title>
+</head>
+<body>
+
+<div class="header"
+style=" 			padding-left		:5%;
+					padding-right		:5%;
+					width				:80%;
+					position			:fixed;
+					top					:1.25%;
+					color				:yellow;
+					text-align			:center;
+					background-color	:grey;
+					margin-left			:5%;
+					margin-right		:5%;
+					border-radius		:50px;">
+					<h1 style="	color	:gold;
+								text-align:center;">
+								Nadpis</h1>
+</div>
+<div	class="ParentDiv"
+		style="		padding			:5%;
+					width			:80%;
+					background-color:#410;
+					margin-top: 10%;
+					margin-left: 5%;
+					margin-right: 5%;
+					border-radius: 50px;">
+<div	class="	SubLeftDiv"
+		style="	float:left;
+				margin-top:2%;
+				margin-left:-1.5%;
+				padding:1.25%;
+				width:45%;
+				background-color:darkgrey;
+				border-radius:50px;">
+				<button type="button"
+				style="	border-radius:		20px;">FCK</button>
+<h3><b>ColorPicker</h3></b>
+<a href="http://www.w3schools.com/tags/ref_colorpicker.asp">
+<img src="http://www.w3schools.com/images/colorpicker.gif"
+ alt="colorpicker"></a>
+</div>
+<div class="SubRightDiv"
+		style="	float:right;
+				margin-right:-1.5%;
+				margin-top:2%;
+				padding:1.25%;
+				width:45%;
+				color:lime;
+				background-color:darkgrey;
+				border-radius:50px;">
+RIGHTDIV</div>
+
+</div>
+
+</div>
+<div class="footer"
+style="position:fixed;
+opacity:0.5;
+bottom:1%;
+height:5%;
+margin-top:20px;
+color:red;
+text-align:center;
+background-color:whitesmoke;
+width:90%;
+margin-left:5%;
+margin-right:5%;
+float:initial;
+border-radius:50px;">
+			Bot</div>
+		
+</body>
+</html>
